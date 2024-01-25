@@ -1,0 +1,28 @@
+= Powering the Push to Production: A multi-path, live action adventure!
+
+== Maintainer
+
+* Mark Heckler
+* mailto:mark@thehecklers.com[mark@thehecklers.com]
+* mailto:mark.heckler@gmail.com[mark.heckler@gmail.com]
+* https://twitter.com/mkheck[@mkheck on Twitter/X]
+
+== Purpose
+
+This meta-repo accompanies my session titled *"Powering the Push to Production: A multi-path, live action adventure!"* and includes the code written within the session and much more. Please star+watch to be notified of updates, as there will be _many_.
+
+== Notes
+
+I'll be updating this repo with full instructions for how to reproduce - with as little pain as possible - the various scenarios I show in the accompanying session, along with several others...and permutations of each where applicable. I know I keep saying this, but...
+
+*_Please star+watch this repo for updates!_*
+
+== Related repositories
+
+https://github.com/mkheck/ppp-deploy-pg[Repo for original application, deployments using az cli and Terraform (for now)]
+
+https://github.com/mkheck/ppp-deploy-pg17[Repo for application with a few experimental changes, including Java 17 and deployments using GitHub Actions (more to be added, changes almost certain) :)]
+
+== Related presentation
+
+https://speakerdeck.com/mkheck/["Powering the Push to Production: A multi-path, live action adventure!" presentation]

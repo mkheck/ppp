@@ -19,9 +19,11 @@ I'll be updating this repo with full instructions for how to reproduce - with as
 
 == Related repositories
 
-https://github.com/mkheck/ppp-deploy-pg[Repo for original application, deployments using az cli and Terraform (for now)]
+https://github.com/mkheck/ppp[Setup scripts]
 
-https://github.com/mkheck/ppp-deploy-pg17[Repo for application with a few experimental changes, including Java 17 and deployments using GitHub Actions (more to be added, changes almost certain) :)]
+https://github.com/mkheck/ppp-deploy-pg[Original application, deployments using az cli and Terraform (for now)]
+
+https://github.com/mkheck/ppp-deploy-pg17[Application with some experimental changes, including Java 17 and deployments using GitHub Actions (more to be added, changes certain) :)]
 
 == Related presentation
 

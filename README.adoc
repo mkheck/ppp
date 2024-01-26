@@ -27,4 +27,16 @@ https://github.com/mkheck/ppp-deploy-pg17[Application with some experimental cha
 
 == Related presentation
 
-https://speakerdeck.com/mkheck/["Powering the Push to Production: A multi-path, live action adventure!" presentation]
+https://speakerdeck.com/mkheck/powering-the-push-to-production["Powering the Push to Production: A multi-path, live action adventure!" presentation]
+
+== Additional resources
+
+https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools[VS Code plugin for ARM templates: Azure Resource Manager (ARM) Tools]
+
+https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-bicep[VS Code plugin for syntax checking: Bicep for Visual Studio]
+
+https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/[azd cli: Azure Developer CLI]
+
+https://learn.microsoft.com/en-us/cli/azure/[az cli: Azure CLI]
+
+https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform[VS Code plugin for Terraform files]

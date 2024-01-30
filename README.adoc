@@ -25,6 +25,13 @@ https://github.com/mkheck/ppp-deploy-pg[Original application, deployments using 
 
 https://github.com/mkheck/ppp-deploy-pg17[Application with some experimental changes, including Java 17 and deployments using GitHub Actions (more to be added, changes certain) :)]
 
+== To reproduce the scenarios shown in the presentation
+
+. Clone the component repositories listed above to your local machine.
+. Follow the instructions in the setup scripts README to initialize necessary environment variables on your machine. NOTE: These are shell scripts to be used in Linux, Mac, and WSL2 environments. If you're using Windows, you'll need to translate the scripts to PowerShell.
+. Follow the instructions in the README of each component repository to deploy the application to your Azure subscription.
+. When you're done, you can delete the resources created by the deployment scripts by referring to the README of each component repository.
+
 == Related presentation
 
 https://speakerdeck.com/mkheck/powering-the-push-to-production["Powering the Push to Production: A multi-path, live action adventure!" presentation]
